@@ -1,4 +1,4 @@
-# Hey there, welcome to my profile! 👋
+# 👋 Hey there, welcome to my profile!
 
 I'm Abraham, currently a computer engineering student @ [Universidad de Guadalajara](https://www.udg.mx/),
 i am also a learning enthusiast and a self-taught programmer for the most part.
