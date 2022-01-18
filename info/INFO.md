@@ -62,4 +62,4 @@ This file contains all the material i've been using to learn new tools or some t
 
 ## Go
 ### Books:
-* [Introding GO](https://drive.google.com/file/d/1j1tOQkiDc4amUUbZif1Ri39M4w-fVUeJ/view?usp=sharing)
+* [Introducing GO](https://drive.google.com/file/d/1j1tOQkiDc4amUUbZif1Ri39M4w-fVUeJ/view?usp=sharing)
