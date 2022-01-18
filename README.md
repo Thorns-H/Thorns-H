@@ -7,7 +7,7 @@ i am also a learning enthusiast and a self-taught programmer for the most part.
 
 ## ⚡ Technologies and Tools
 
-Here are a few things I've picked up along my learning journey.
+[Here](https://github.com/Thorns-H/Thorns-H/blob/main/info/INFO.md) are a few things I've picked up along my learning journey.
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
